@@ -20,12 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="db8e37e7-2d09-45a8-9475-15b7667349c8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/objectAndArrays/11_sorting.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objectAndArrays/12_grupping.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/bundle.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/objectAndArrays/10_every_some.js" beforeDir="false" afterPath="$PROJECT_DIR$/objectAndArrays/10_every_some.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bundle.js.LICENSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/bundle.js.LICENSE.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/objectAndArrays/12_grupping.js" beforeDir="false" afterPath="$PROJECT_DIR$/objectAndArrays/12_grupping.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,6 +60,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
     <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2020.2.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -75,6 +74,10 @@
       <updated>1643698455886</updated>
       <workItem from="1643698457779" duration="517000" />
       <workItem from="1643698997593" duration="18287000" />
+      <workItem from="1645607180820" duration="89000" />
+      <workItem from="1645607283812" duration="13000" />
+      <workItem from="1645607311604" duration="40000" />
+      <workItem from="1645607396048" duration="557000" />
     </task>
     <servers />
   </component>
@@ -102,6 +105,10 @@
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
     <state x="92" y="92" width="3256" height="1216" key="DiffContextDialog/2947.-1105.1920.1040/3440.-25.2560.1400/-2560.0.2560.1400/0.0.3440.1400/387.-1080.2560.1040@0.0.3440.1400" timestamp="1643708587916" />
+    <state x="461" y="164" key="SettingsEditor" timestamp="1645607724103">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1645607724103" />
     <state x="1383" y="315" width="672" height="678" key="search.everywhere.popup" timestamp="1643705170188">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
