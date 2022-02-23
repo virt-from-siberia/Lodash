@@ -12,16 +12,36 @@ import { GRUPPING } from "./objectAndArrays/12_grupping";
 import { CHANNING } from "./objectAndArrays/13_channing";
 import { ARRAY_PARTS } from "./objectAndArrays/14_array_parts";
 
-EACH();
-MAP();
-MAP_MY_SELF();
-FILTER();
-FILTER_MY_SELF();
-FIND();
-DELETE_FROM_ARRAY();
-DELETE_FROM_ARRAY_MY_SELF();
-EVERY_SOME();
-SORTING();
-GRUPPING();
-CHANNING();
-ARRAY_PARTS();
+import { REGISTERS } from "./strings/15_registers";
+import { CONCAT_SPLIT_ARRAYS } from "./strings/16_concat_and_split_arrays";
+
+import { RANDOMIZE } from "./advancedFunctions/20_randomize";
+
+const objectsAndArrays = () => {
+  EACH();
+  MAP();
+  MAP_MY_SELF();
+  FILTER();
+  FILTER_MY_SELF();
+  FIND();
+  DELETE_FROM_ARRAY();
+  DELETE_FROM_ARRAY_MY_SELF();
+  EVERY_SOME();
+  SORTING();
+  GRUPPING();
+  CHANNING();
+  ARRAY_PARTS();
+};
+
+const strings = () => {
+  REGISTERS();
+  CONCAT_SPLIT_ARRAYS();
+};
+
+const advancedFunctions = () => {
+  RANDOMIZE();
+};
+
+objectsAndArrays();
+strings();
+advancedFunctions();
