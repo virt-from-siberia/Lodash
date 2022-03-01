@@ -16,6 +16,11 @@ import { REGISTERS } from "./strings/15_registers";
 import { CONCAT_SPLIT_ARRAYS } from "./strings/16_concat_and_split_arrays";
 
 import { RANDOMIZE } from "./advancedFunctions/20_randomize";
+import { ONE_DIMENSIONAL_ARRAY } from "./advancedFunctions/22_one_dementional_array";
+import { IMMUTABLE } from "./advancedFunctions/24_immutable";
+import { CLONE } from "./advancedFunctions/25_clone";
+import { DEBOUNCE } from "./advancedFunctions/26_debounce";
+import { THROTTLE } from "./advancedFunctions/27_throlle";
 
 const objectsAndArrays = () => {
   EACH();
@@ -40,6 +45,11 @@ const strings = () => {
 
 const advancedFunctions = () => {
   RANDOMIZE();
+  ONE_DIMENSIONAL_ARRAY();
+  IMMUTABLE();
+  // CLONE();
+  DEBOUNCE();
+  THROTTLE();
 };
 
 objectsAndArrays();
