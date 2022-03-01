@@ -21,6 +21,9 @@ import { IMMUTABLE } from "./advancedFunctions/24_immutable";
 import { CLONE } from "./advancedFunctions/25_clone";
 import { DEBOUNCE } from "./advancedFunctions/26_debounce";
 import { THROTTLE } from "./advancedFunctions/27_throlle";
+import { MIXINS } from "./advancedFunctions/29_mixins";
+
+import { MAPPING } from "./youtSelf/30_mapping";
 
 const objectsAndArrays = () => {
   EACH();
@@ -50,8 +53,14 @@ const advancedFunctions = () => {
   // CLONE();
   DEBOUNCE();
   THROTTLE();
+  MIXINS();
+};
+
+const yourSelf = () => {
+  MAPPING();
 };
 
 objectsAndArrays();
 strings();
 advancedFunctions();
+yourSelf();
