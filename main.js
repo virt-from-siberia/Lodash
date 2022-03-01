@@ -24,6 +24,9 @@ import { THROTTLE } from "./advancedFunctions/27_throlle";
 import { MIXINS } from "./advancedFunctions/29_mixins";
 
 import { MAPPING } from "./youtSelf/30_mapping";
+import { REPLACE_URLS } from "./youtSelf/31_replcae_url";
+import { VALIDATION } from "./youtSelf/32_validation";
+import { NESTED_LISTS } from "./youtSelf/33_nested_lists";
 
 const objectsAndArrays = () => {
   EACH();
@@ -58,6 +61,9 @@ const advancedFunctions = () => {
 
 const yourSelf = () => {
   MAPPING();
+  REPLACE_URLS();
+  VALIDATION();
+  NESTED_LISTS();
 };
 
 objectsAndArrays();
